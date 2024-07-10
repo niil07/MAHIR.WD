@@ -157,3 +157,151 @@ body{
     justify-content: space-between;
     margin: 24px 0px;
 }
+
+/* Inspiration section css */
+
+.inspiration{
+    width: 100%;
+    padding: 40px 0px;
+}
+
+.i-content{
+
+}
+
+.i-title{
+    text-align: center;
+}
+
+.i-title h1{
+    color: #0D1321;
+    text-align: center;
+    font-family: "Azeret Mono";
+    font-size: 32px;
+    font-weight: 800;
+}
+
+.i-title p{
+    color: #0D1321;
+    text-align: center;
+    font-family: "Azeret Mono";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    opacity: 0.7;
+    margin: 24px 0px;
+}
+
+.i-video{
+    padding: 32px;
+    border-radius: 16px;
+    border: 1px solid rgba(13, 19, 33, 0.20);
+}
+
+.i-video iframe{
+    width: 100%;
+    border-radius: 16px;
+}
+
+/* Current target section css */
+
+.current-target{
+    width: 100%;
+    padding: 40px 0px;
+}
+
+.c-target-title h1{
+    color: #0D1321;
+    text-align: center;
+    font-family: "Azeret Mono";
+    font-size: 32px;
+    font-weight: 800;
+}
+
+.c-target-title p{
+    color: #0D1321;
+    text-align: center;
+    font-family: "Azeret Mono";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    opacity: 0.7;
+    margin: 24px 0px;
+}
+
+.c-target-cards{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 48px;
+}
+
+.c-target-card1{
+    flex-basis: 33.33%;
+    padding: 40px;
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+}
+
+.c-target-card2{
+    flex-basis: 33.33%;
+    padding: 40px;
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+    margin: 0px 24px;
+}
+
+.c-target-card3{
+    flex-basis: 33.33%;
+    padding: 40px;
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+}
+
+.c-target-cards h1{
+    color: #0D1321;
+    font-family: "Azeret Mono";
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+    margin-top: 16px;
+}
+
+.c-target-cards p{
+    color: #0D1321;
+    font-family: "Azeret Mono";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    opacity: 0.7;
+    margin: 16px 0px;
+}
+
+.c-target-cards a{
+    color: #0D1321;
+    font-family: "Azeret Mono";
+    font-size: 16px;
+    font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
